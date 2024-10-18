@@ -5,3 +5,8 @@
 ## Author
 [Author](author.md)
 ## Some new section here
+<<<<<<< HEAD
+Обзор функциональности продукта
+=======
+Информация о новых возможностях
+>>>>>>> origin/main
